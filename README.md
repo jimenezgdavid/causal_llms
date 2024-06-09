@@ -19,5 +19,6 @@ An LLM can answer the human causal query by being able to:
 
 ## References
 
-- https://github.com/AMLab-Amsterdam/CEVAE/tree/master
-- https://rdrr.io/cran/qte/man/lalonde.html#heading-0
+- Set of experiments to use variational autoencoders as causal discovery mechanisms: https://github.com/AMLab-Amsterdam/CEVAE/tree/master
+- Original `R` dataset: https://rdrr.io/cran/qte/man/lalonde.html#heading-0
+- Causal Datasets: https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file
