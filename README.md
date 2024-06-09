@@ -9,14 +9,13 @@ We want to test the idea of the LLM as a causal model discovery agent. We want t
 
 ## Hypotheses
 
-An LLM can:
-- answer the human causal query.
+An LLM can answer the human causal query by being able to:
   - translate a human causal query into a formal causal query.
-- generate a hypothetical causal DAG structure to answer the causal query.
-- check in a set of data structures if the query can be answered with the current data or not.
-- write a causal inference program using the DAG and structure of the data.
-- run the program
-- answer the query
+  - generate a hypothetical causal DAG structure to answer the causal query.
+  - check in a set of data structures if the query can be answered with the current data or not.
+  - write a causal inference program using the DAG and structure of the data.
+  - run the program.
+  - answer the query.
 
 ## References
 
