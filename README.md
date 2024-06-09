@@ -1,7 +1,9 @@
 # Semantic Engine for Causal Inference and Discovery (SECID)
+
 We want to test the idea of the LLM as a causal model discovery agent. We want to understand how using descriptions of each column can change the structure of the SCM proposed by the LLM. 
 
 ## Tasks
+
 - [ ] Get datasets and problems previously solved for causal inference.
 - [ ] Solve these problems with python code.
 
@@ -16,7 +18,7 @@ An LLM can:
 - run the program
 - answer the query
 
-
 ## References
 
-Document with more information: https://docs.google.com/document/d/1UCmNKiWXOZcdELLK7V18tB4ZvdYF7sQbpAXhrf9T9g0/edit?usp=sharing 
+- https://github.com/AMLab-Amsterdam/CEVAE/tree/master
+- https://rdrr.io/cran/qte/man/lalonde.html#heading-0
